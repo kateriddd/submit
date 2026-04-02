@@ -12,7 +12,7 @@ The code for Part 2: train_transformer_rl.py for all sub parts, for training and
   model's functions and structure, and DreamerV3.py code from HW2 for the world model code.
   
 
-**Note**: The dagger part was not implemented for bonus points. I also used one of my late days for this assignment (first late day used so far).
+**Note**: The dagger part was not implemented for bonus points.
 
 **Commands to run the experiments reported in the report.**
 **Part 1 experiments:**
